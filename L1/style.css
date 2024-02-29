@@ -1,0 +1,31 @@
+body {
+    padding: 20px;
+    margin: 0;
+}
+
+input {
+    padding: 10px;
+    margin: 2px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    color: white;
+    background: blue;
+    border: 0;
+    padding: 12px;
+    width: 186px;
+    align-content: center;
+    margin: 2px;
+
+}
+
+.login:hover {
+    cursor: pointer;
+    background-color: aqua;
+}
